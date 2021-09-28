@@ -1,0 +1,21 @@
+{
+  "name": "kiss-tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest --collect-coverage",
+    "test:watch": "jest --watch"
+  },
+  "jest": {
+    "rootDir": "src",
+    "testEnvironment": "node",
+    "transformIgnorePatterns": [
+      "node_modules/(?!variables/.*)"
+    ]
+  }
+}
