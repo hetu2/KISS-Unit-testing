@@ -1,8 +1,7 @@
 # KISS! Unit testing (JS/TS) 
 
-
 Keep it simple, stupid! Unit testing (JavaScript or TypeScript).
-DevMastery inspirated pattern to do easy way unit testing! This setup needs only your JavaScript or TypeScript code and some testing framework (this example uses Jest). 
+DevMastery inspired pattern to do an easy way unit testing! This setup needs only your JavaScript or TypeScript code and some testing framework (this example uses Jest). 
 
 ## Ways to do it
 
