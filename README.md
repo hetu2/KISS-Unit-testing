@@ -6,3 +6,12 @@ DevMastery inspired pattern to do an easy way unit testing! This setup needs onl
 ## Ways to do it
 
 * [Function dependency injection](https://github.com/hetu2/KISS-Unit-testing/tree/main/src/function-dependency-injection)
+
+
+## Try it on localhost
+
+```
+yarn install
+
+yarn test
+```
